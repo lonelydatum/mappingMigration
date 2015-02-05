@@ -1,0 +1,11 @@
+{
+  "jspm": {
+    "dependencies": {
+      "GreenSock-JS": "github:greensock/GreenSock-JS@^1.15.1",
+      "js-signals": "github:millermedeiros/js-signals@^1.0.0",
+      "jsonp": "npm:jsonp@^0.1.0",
+      "stats.js": "github:mrdoob/stats.js@master",
+      "three.js": "github:mrdoob/three.js@master"
+    }
+  }
+}

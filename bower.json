@@ -1,0 +1,25 @@
+{
+  "name": "5_shapes",
+  "version": "0.0.0",
+  "authors": [
+    "Gar Liu <web@garliu.com>"
+  ],
+  "main": "app/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "traceur": "~0.0.82"
+  },
+  "devDependencies": {
+    "traceur": "~0.0.82",
+    "stats.js": "mrdoob/stats.js"
+  }
+}
