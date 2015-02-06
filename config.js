@@ -14,6 +14,9 @@ System.config({
     },
     "jspm_packages/github/greensock/GreenSock-JS@1.15.1/src/minified/TweenLite.min": {
       "format": "global"
+    },
+    "jspm_packages/github/greensock/GreenSock-JS@1.15.1/src/minified/easing/EasePack.min": {
+      "format": "global"
     }
   }
 });
@@ -21,6 +24,7 @@ System.config({
 System.config({
   "map": {
     "TweenLite": "jspm_packages/github/greensock/GreenSock-JS@1.15.1/src/minified/TweenLite.min",
+    "Easing": "jspm_packages/github/greensock/GreenSock-JS@1.15.1/src/minified/easing/EasePack.min",
     "signals": "github:millermedeiros/js-signals@1.0.0",
     "jsonp": "npm:jsonp@0.1.0",
     "stats.js": "github:mrdoob/stats.js@master",

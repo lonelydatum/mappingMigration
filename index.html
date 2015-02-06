@@ -38,7 +38,10 @@ button#tester{
 
 System.import('three').then(function(d){
 	System.import('TweenLite').then(function(d){
-		System.import('lib/main');
+		System.import('Easing').then(function(){
+			System.import('lib/main');
+		})
+
 	})
 
 
