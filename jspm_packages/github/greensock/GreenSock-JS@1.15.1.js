@@ -1,0 +1,1 @@
+module.exports = require("github:greensock/GreenSock-JS@1.15.1/src/uncompressed/TweenMax");
